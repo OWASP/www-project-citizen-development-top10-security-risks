@@ -20,7 +20,7 @@
 ### Top 10 Citizen Development Risks
 
 - [Return to homepage](/www-project-citizen-development-top10-security-risks)
-- [CD-SEC-01: Blind Trust](/www-project-citizen-development-top10-security-risks/content/2022/en/CD-SEC-01-Blind-Trust)
+- [CD-SEC-01: Blind Trust](/www-project-citizen-development-top10-security-risks/CD-SEC-01-Blind-Trust)
 - [CD-SEC-02: Account Impersonation](/www-project-citizen-development-top10-security-risks/content/2022/en/CD-SEC-02-Account-Impersonation)
 - [CD-SEC-03: Authorization Misuse](/www-project-citizen-development-top10-security-risks/content/2022/en/CD-SEC-03-Authorization-Misuse)
 - [CD-SEC-04: Sensitive Data Leakage and Handling Failures](/www-project-citizen-development-top10-security-risks/content/2022/en/CD-SEC-04-Sensitive-Data-Leakage-and-Handling-Failures)
