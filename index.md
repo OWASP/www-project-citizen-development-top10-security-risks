@@ -39,13 +39,14 @@ By providing accessible examples and guidance, the project equips both technical
 
 ## The List
 
-1. [LCNC-SEC-01: Account Impersonation](content/2022/en/LCNC-SEC-01-Account-Impersonation)
-2. [LCNC-SEC-02: Authorization Misuse](content/2022/en/LCNC-SEC-02-Authorization-Misuse)
-3. [LCNC-SEC-03: Data Leakage and Unexpected Consequences](content/2022/en/LCNC-SEC-03-Data-Leakage-and-Unexpected-Consequences)
-4. [LCNC-SEC-04: Authentication and Secure Communication Failures](content/2022/en/LCNC-SEC-04-Authentication-and-Secure-Communication-Failures)
-5. [LCNC-SEC-05: Security Misconfiguration](content/2022/en/LCNC-SEC-05-Security-Misconfiguration)
-6. [LCNC-SEC-06: Injection Handling Failures](content/2022/en/LCNC-SEC-06-Injection-Handling-Failures)
-7. [LCNC-SEC-07: Vulnerable and Untrusted Components](content/2022/en/LCNC-SEC-07-Vulnerable-and-Untrusted-Components)
-8. [LCNC-SEC-08: Data and Secret Handling Failures](content/2022/en/LCNC-SEC-08-Data-and-Secret-Handling-Failures)
-9. [LCNC-SEC-09: Asset Management Failures](content/2022/en/LCNC-SEC-09-Asset-Management-Failures)
-10. [LCNC-SEC-10: Security Logging and Monitoring Failures](content/2022/en/LCNC-SEC-10-Security-Logging-and-Monitoring-Failures)
+1. [CD-SEC-01: Blind Trust](content/2022/en/LCNC-SEC-01-Account-Impersonation)
+2. [CD-SEC-02: Account Impersonation](content/2022/en/LCNC-SEC-02-Authorization-Misuse)
+3. [CD-SEC-03: Authorization Misuse](content/2022/en/LCNC-SEC-03-Data-Leakage-and-Unexpected-Consequences)
+4. [CD-SEC-04: Sensitive Data Leakage and Handling Failures](content/2022/en/LCNC-SEC-04-Authentication-and-Secure-Communication-Failures)
+5. [CD-SEC-05: Authentication and Secure Communication Failures](content/2022/en/LCNC-SEC-05-Security-Misconfiguration)
+6. [CD-SEC-06: Vulnerable and Untrusted Components](content/2022/en/LCNC-SEC-06-Injection-Handling-Failures)
+7. [CD-SEC-07: Security Misconfiguration](content/2022/en/LCNC-SEC-07-Vulnerable-and-Untrusted-Components)
+8. [CD-SEC-08: Injection Handling Failures](content/2022/en/LCNC-SEC-08-Data-and-Secret-Handling-Failures)
+9. [CD-SEC-09: Asset Management Failures](content/2022/en/LCNC-SEC-09-Asset-Management-Failures)
+10. [CD-SEC-10: Security Logging and Monitoring Failures](content/2022/en/LCNC-SEC-10-Security-Logging-and-Monitoring-Failures)
+
