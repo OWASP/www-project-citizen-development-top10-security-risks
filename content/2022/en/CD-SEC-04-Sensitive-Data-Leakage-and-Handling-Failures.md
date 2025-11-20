@@ -39,7 +39,7 @@ A citizen acting as an application developer uses an AI assistant to create a we
 
 ## Prevention
 
--Limit connectors to an approved services list
+- Limit connectors to an approved services list
 - Limit creation of custom connectors to dedicated personnel
 - Monitor platforms for data flow outside the organizational boundary, including multi-hop paths
 - Work with the business to understand the citizen development needs and provide simple alternatives that meet security requirements
