@@ -20,16 +20,16 @@
 ### Top 10 Citizen Development Risks
 
 - [Return to homepage](/www-project-citizen-development-top10-security-risks)
-- [CD-SEC-01: Blind Trust](/www-project-top-10-low-code-no-code-security-risks/content/2022/en/LCNC-SEC-01-Account-Impersonation)
-- [CD-SEC-02: Account Impersonation](/www-project-top-10-low-code-no-code-security-risks/content/2022/en/LCNC-SEC-02-Authorization-Misuse)
-- [CD-SEC-03: Authorization Misuse](/www-project-top-10-low-code-no-code-security-risks/content/2022/en/LCNC-SEC-03-Data-Leakage-and-Unexpected-Consequences)
-- [CD-SEC-04: Sensitive Data Leakage and Handling Failures](/www-project-top-10-low-code-no-code-security-risks/content/2022/en/LCNC-SEC-04-Authentication-and-Secure-Communication-Failures)
-- [CD-SEC-05: Authentication and Secure Communication Failures](/www-project-top-10-low-code-no-code-security-risks/content/2022/en/LCNC-SEC-05-Security-Misconfiguration)
-- [CD-SEC-06: Vulnerable and Untrusted Components](/www-project-top-10-low-code-no-code-security-risks/content/2022/en/LCNC-SEC-06-Injection-Handling-Failures)
-- [CD-SEC-07: Security Misconfiguration](/www-project-top-10-low-code-no-code-security-risks/content/2022/en/LCNC-SEC-07-Vulnerable-and-Untrusted-Components)
-- [CD-SEC-08: Injection Handling Failures](/www-project-top-10-low-code-no-code-security-risks/content/2022/en/LCNC-SEC-08-Data-and-Secret-Handling-Failures)
-- [CD-SEC-09: Asset Management Failures](/www-project-top-10-low-code-no-code-security-risks/content/2022/en/LCNC-SEC-09-Asset-Management-Failures)
-- [CD-SEC-10: Security Logging and Monitoring Failures](/www-project-top-10-low-code-no-code-security-risks/content/2022/en/LCNC-SEC-10-Security-Logging-and-Monitoring-Failures)
+- [CD-SEC-01: Blind Trust](/www-project-citizen-development-top10-security-risks/content/2022/en/CD-SEC-01-Blind-Trust)
+- [CD-SEC-02: Account Impersonation](/www-project-citizen-development-top10-security-risks/content/2022/en/CD-SEC-02-Account-Impersonation)
+- [CD-SEC-03: Authorization Misuse](/www-project-citizen-development-top10-security-risks/content/2022/en/CD-SEC-03-Authorization-Misuse)
+- [CD-SEC-04: Sensitive Data Leakage and Handling Failures](/www-project-citizen-development-top10-security-risks/content/2022/en/CD-SEC-04-Sensitive-Data-Leakage-and-Handling-Failures)
+- [CD-SEC-05: Authentication and Secure Communication Failures](/www-project-citizen-development-top10-security-risks/content/2022/en/CD-SEC-05-Authentication-and-Secure-Communication-Failures)
+- [CD-SEC-06: Vulnerable and Untrusted Components](/www-project-citizen-development-top10-security-risks/content/2022/en/CD-SEC-06-Vulnerable-and-Untrusted-Components)
+- [CD-SEC-07: Security Misconfiguration](/www-project-citizen-development-top10-security-risks/content/2022/en/CD-SEC-07-Security-Misconfiguration)
+- [CD-SEC-08: Injection Handling Failures](/www-project-citizen-development-top10-security-risks/content/2022/en/CD-SEC-08-Injection-Handling-Failures)
+- [CD-SEC-09: Asset Management Failures](/www-project-citizen-development-top10-security-risks/content/2022/en/CD-SEC-09-Asset-Management-Failures)
+- [CD-SEC-10: Security Logging and Monitoring Failures](/www-project-citizen-development-top10-security-risks/content/2022/en/CD-SEC-10-Security-Logging-and-Monitoring-Failures)
 - [Methodology and Data](/www-project-top-10-low-code-no-code-security-risks/content/2022/en/Methodology-and-Data)
 
 ### Social and Community
