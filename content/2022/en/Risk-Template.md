@@ -1,25 +1,15 @@
 ---
 
 layout: col-sidebar
-title: "LCNC-SEC-XX: TITLE"
+title: "CD-SEC-XX: TITLE"
 
 ---
-
-## Risk Rating [*](https://owasp.org/www-project-top-ten/2017/Note_About_Risks)
-
-| Prevalence | Detectability | Exploitability | Technical Impact |
-| --- | --- | --- | --- |
-| TBD | TBD | TBD | TBD |
-
-## The Gist
-
-TBD
 
 ## Description
 
 TBD
 
-## Example Attack Scenarios
+## Example Risk Scenarios
 
 ### Scenario #1
 
@@ -29,7 +19,7 @@ TBD
 
 TBD
 
-## How to Prevent
+## Prevention
 
 TBD
 
