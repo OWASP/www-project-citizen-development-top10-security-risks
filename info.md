@@ -30,7 +30,7 @@
 - [CD-SEC-08: Injection Handling Failures](content/2022/en/CD-SEC-08-Injection-Handling-Failures)
 - [CD-SEC-09: Asset Management Failures](content/2022/en/CD-SEC-09-Asset-Management-Failures)
 - [CD-SEC-10: Security Logging and Monitoring Failures](content/2022/en/CD-SEC-10-Security-Logging-and-Monitoring-Failures)
-- [Methodology and Data](/www-project-top-10-low-code-no-code-security-risks/content/2022/en/Methodology-and-Data)
+- [Methodology and Data](/www-project-citizen-development-top10-security-risks/content/2022/en/Methodology-and-Data)
 
 ### Social and Community
 
