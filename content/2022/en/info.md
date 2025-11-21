@@ -1,7 +1,7 @@
 
 ### Top 10 Citizen Development Risks
 
-- [Return to homepage](/www-www-project-citizen-development-top10-security-risks)
+- [Return to homepage](/www-project-citizen-development-top10-security-risks/)
 - [CD-SEC-01: Blind Trust](/www-project-citizen-development-top10-security-risks/content/2022/en/CD-SEC-01-Blind-Trust)
 - [CD-SEC-02: Account Impersonation](/www-project-citizen-development-top10-security-risks/content/2022/en/CD-SEC-02-Account-Impersonation)
 - [CD-SEC-03: Authorization Misuse](/www-project-citizen-development-top10-security-risks/content/2022/en/CD-SEC-03-Authorization-Misuse)
@@ -12,7 +12,7 @@
 - [CD-SEC-08: Injection Handling Failures](/www-project-citizen-development-top10-security-risks/content/2022/en/CD-SEC-08-Injection-Handling-Failures)
 - [CD-SEC-09: Asset Management Failures](/www-project-citizen-development-top10-security-risks/content/2022/en/CD-SEC-09-Asset-Management-Failures)
 - [CD-SEC-10: Security Logging and Monitoring Failures](/www-project-citizen-development-top10-security-risks/content/2022/en/CD-SEC-10-Security-Logging-and-Monitoring-Failures)
-- [Methodology and Data](/www-www-project-citizen-development-top10-security-risks/content/2022/en/Methodology-and-Data)
+- [Methodology and Data](/www-project-citizen-development-top10-security-risks/content/2022/en/Methodology-and-Data)
 
 ### Licensing
 
