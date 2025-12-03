@@ -50,3 +50,4 @@ By providing accessible examples and guidance, the project equips both technical
 9. [CD-SEC-09: Asset Management Failures](content/2022/en/CD-SEC-09-Asset-Management-Failures)
 10. [CD-SEC-10: Security Logging and Monitoring Failures](content/2022/en/CD-SEC-10-Security-Logging-and-Monitoring-Failures)
 
+[View the PDF](https://owasp.org/www-project-citizen-development-top10-security-risks/assets/images/OWASP's%20Top%2010%20Risks%20for%20Citizen%20Development%20(2).pdf)
