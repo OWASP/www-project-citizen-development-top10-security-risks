@@ -32,6 +32,10 @@
 - [CD-SEC-10: Security Logging and Monitoring Failures](/www-project-citizen-development-top10-security-risks/content/2022/en/CD-SEC-10-Security-Logging-and-Monitoring-Failures)
 - [Methodology and Data](/www-project-citizen-development-top10-security-risks/content/2022/en/Methodology-and-Data)
 
+### Cheat Sheets
+
+[Blind Trust Framework (CD-SEC-01) Cheat Sheet](https://owasp.org/www-project-citizen-development-top10-security-risks/assets/images/Blind%20Trust%20Framework%20Cheatsheet.pdf)
+
 ### Social and Community
 
 [Slack](https://owasp.slack.com/archives/C02C6RU6G10)
