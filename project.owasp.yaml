@@ -1,0 +1,27 @@
+audience:
+  - breaker
+  - builder
+  - defender
+leaders:
+  - name: Kayla Underkoffler
+    email: kayla.underkoffler@owasp.org
+  - name: Ziv Hagbi
+    email: zivh@zenity.io
+  - name: Ory Segal
+    email: ory.segal@owasp.org
+    github: oorryy
+level: 3
+name: OWASP Low-Code/No-Code Top 10
+pitch: The primary goal of the "OWASP Top 10 Low-Code/No-Code Security Risks" document is to provide assistance and education for organizations looking
+  to adopt and develop Low-Code/No-Code applications. The guide provides information about what are the most prominent security risks for such applications,
+  the challenges involved, and how to overcome them.
+repositories:
+  - name: www-project-top-10-low-code-no-code-security-risks
+    url: https://github.com/OWASP/www-project-top-10-low-code-no-code-security-risks
+    description: OWASP Low-Code/No-Code Top 10
+tags:
+  - nocode
+  - custom-tag-1
+  - custom-tag-2
+type: documentation
+website: https://owasp.org/www-project-top-10-low-code-no-code-security-risks
